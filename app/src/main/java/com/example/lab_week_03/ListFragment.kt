@@ -1,10 +1,11 @@
+package com.example.lab_week_03
+
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.navigation.Navigation
-import com.example.lab_week_03.R
 
 class ListFragment : Fragment() {
     override fun onCreate(savedInstanceState: Bundle?) {
